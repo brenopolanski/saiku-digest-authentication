@@ -1,8 +1,8 @@
-# Simple Digest authentication for Saiku UI [![Build Status](https://travis-ci.org/brenopolanski/saiku-digest-authentication.svg?branch=master)](https://travis-ci.org/brenopolanski/saiku-digest-authentication)
+# Saiku Digest authentication [![Build Status](https://travis-ci.org/brenopolanski/saiku-digest-authentication.svg?branch=master)](https://travis-ci.org/brenopolanski/saiku-digest-authentication)
 
 <img src="https://raw.githubusercontent.com/brenopolanski/saiku-digest-authentication/gh-assets/logo.png" alt="Simple Digest authentication for Saiku UI" align="right" />
 
-Simple Digest authentication for Saiku UI.
+### Simple Digest authentication for Saiku UI.
 
 **Digest access authentication** is one of the agreed-upon methods a web server can use to negotiate credentials, such as username or password, with a user's web browser.
 
