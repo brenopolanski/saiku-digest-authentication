@@ -1,0 +1,30 @@
+{
+  "name": "saiku-digest-authentication",
+  "version": "0.1.0",
+  "description": "Simple Digest authentication for Saiku UI",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brenopolanski/saiku-digest-authentication"
+  },
+  "keywords": [
+    "saiku",
+    "digest",
+    "authentication",
+    "plugin"
+  ],
+  "author": {
+    "name": "Breno Polanski",
+    "email": "brenopolanski@gmail.com",
+    "web": "http://brenopolanski.com",
+    "twitter": "brenopolanski"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brenopolanski/saiku-digest-authentication/issues"
+  },
+  "homepage": "https://github.com/brenopolanski/saiku-digest-authentication",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0"
+  }
+}
