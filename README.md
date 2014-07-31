@@ -29,6 +29,34 @@
 	```
 	> look for ***Saiku plugins*** comment in index.html.
 	
+3. Open file **Session.js**:
+
+	
+  ```
+  ├── saiku-ui/
+  │   └── js/
+  │       └── saiku/
+  │           └── models/
+  │               └── Session.js/
+  ```
+4. Edit the file **Session.js**. Search for method ***process_session***, insert the code below:
+
+	*Switch:*
+
+	```javascript
+	if (Settings.DEMO) {
+		this.form = new DemoLoginForm({ session: this });
+	} else {
+		this.form = new LoginForm({ session: this });
+	}
+	```
+	
+	*by:*
+	
+	```javascript
+	this.form = new Digest({ session: this });
+	```
+	
 ## Contributing
 
 1. Fork it!
