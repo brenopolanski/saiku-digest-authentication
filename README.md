@@ -41,7 +41,7 @@
   ```
 4. Edit the file **Session.js**. Search for method ***process_session***, insert the code below:
 
-	*Substitute:*
+	*substitute:*
 
 	```javascript
 	if (Settings.DEMO) {
