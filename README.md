@@ -41,7 +41,7 @@
   ```
 4. Edit the file **Session.js**. Search for method ***process_session***, insert the code below:
 
-	*Switch:*
+	*Substitute:*
 
 	```javascript
 	if (Settings.DEMO) {
@@ -51,7 +51,7 @@
 	}
 	```
 	
-	*by:*
+	*to:*
 	
 	```javascript
 	this.form = new Digest({ session: this });
