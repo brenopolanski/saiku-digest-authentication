@@ -6,7 +6,7 @@
 
 **Digest access authentication** is one of the agreed-upon methods a web server can use to negotiate credentials, such as username or password, with a user's web browser.
 
-[Saiku](http://www.meteorite.bi/saiku) is an open source analytics client developed by [meteorite](http://www.meteorite.bi/). A user interface for the analytical tool.
+[Saiku](http://www.meteorite.bi/saiku) is an open source analytics client developed by [Meteorite BI](http://www.meteorite.bi/). A user interface for the analytical tool.
 
 ## Usage
 
