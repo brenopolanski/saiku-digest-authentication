@@ -23,7 +23,7 @@
 		"_": true,
 		"Backbone": true,
 		"Saiku": true,
-		"Modal": true,
+		"Digest": true,
 		"Settings": true
 	}
 }
